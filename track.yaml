@@ -1,8 +1,8 @@
-slug: untitled-track-jquii2
+slug: testcli
 id: kcrqcffszi4u
 revision: 1
 title: Untitled Track
-description: ""
+description: test
 icon: ""
 tags: []
 owner: instruqt-demos
@@ -20,4 +20,5 @@ lab_config:
   hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
+  lab_v2: false
   loadingMessages: true
